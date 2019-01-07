@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "SendNotifications";
+}
+
+<h2>Send Notifications</h2>
+
+<button class="btn btn-primary" onclick="ajaxRequest('/Home/CallingHub')">Send Notification</button>
+
+<h1 id="content-container">
+
+</h1>
+
+<script>
+    function ajaxRequest(link) {
+        //1.set the url 
+        var url = link;
+        //2.send ajax requset to this url 
+        $.ajax({
+            url: url, success: function (result) {
+                $("#content-container").html(result);
+            }
+        });
+    }
+</script>
