@@ -1,0 +1,82 @@
+========================================
+what is HTTP ?
+========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+2- https://www.w3schools.com/whatis/whatis_http.asp
+3- https://searchwindevelopment.techtarget.com/definition/HTTP
+========================================
+1.what is HTTP_persistent_connection
+========================================
+#q/a
+1- https://en.wikipedia.org/wiki/HTTP_persistent_connection
+2- https://whatis.techtarget.com/definition/persistent-connection-HTTP-persistent-connection
+3- https://stackoverflow.com/questions/1480329/what-exactly-does-a-persistent-connection-mean
+4- https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+==========================================
+2.WebSocket
+==========================================
+#q/a
+1- https://en.wikipedia.org/wiki/WebSocket
+2- https://stackoverflow.com/questions/34730334/how-websockets-are-implemented
+==========================================
+3.Comet technique :
+- Forever Frame
+- Server Events
+==========================================
+#q/a
+0- https://en.wikipedia.org/wiki/Comet_(programming)
+1- http://webreference.com/programming/javascript/rg30/index-2.html
+2- https://lchandara.wordpress.com/2012/03/06/comet-programming-the-hidden-iframe-technique/
+3- https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7
+4- https://www.tutorialdocs.com/article/server-sent-events-tutorial.html
+==========================================
+4.Chunked_transfer_encoding
+==========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Chunked_transfer_encoding
+2- https://www.httpwatch.com/httpgallery/chunked/
+==========================================
+5.important reading files
+==========================================
+#q/a
+1- interactiveweb.pdf
+2- stackoverflow.pdf
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
